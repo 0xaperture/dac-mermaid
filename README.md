@@ -5,3 +5,6 @@ Mermaid is a strong option for this model because diagrams are defined as text, 
 
 Below are a collection of examples I created for reference:
 - Sequence Diagramming: [Control Name: Secure Cloud Key Storage](sc-cloud-key-storage.md)
+- Timeline
+- Gantt
+- C4 Diagram
